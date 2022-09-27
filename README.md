@@ -19,5 +19,3 @@ I'm Sajid From Sudan , I do Data Analysts , Machine Learning Engineers, Data Dat
 
 <img  src="https://github.com/SajidDmcq/SajidDmcq/blob/main/javascript.gif" />
   
-
-
