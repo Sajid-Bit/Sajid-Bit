@@ -3,13 +3,9 @@
 ```zsh
  I do Data Analysts , Machine Learning Engineers, Data science, Front-End Develpment With js (React-Vue)
 ```
-
-![Typing SVG](https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg)
-
-
 ---
-# 👋 ・ Welcome
-![](https://komarev.com/ghpvc/?username=Lorenzo0111)
+
+![](https://komarev.com/ghpvc/?username=Sajid_Bit)
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -20,6 +16,8 @@
 [![](https://github-readme-stats.vercel.app/api?username=Lorenzo0111&show_icons=true&count_private=true)](https://github.com/Lorenzo0111)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenzo0111&layout=compact)
 
+
+![Typing SVG](https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg)
  ---
 <img  src="https://github.com/SajidDmcq/SajidDmcq/blob/main/javascript.gif" />
 
