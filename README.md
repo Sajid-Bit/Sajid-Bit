@@ -6,7 +6,7 @@
 ---
 
 ![](https://komarev.com/ghpvc/?username=Sajid-Bit)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sajid-Bit&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 ![](https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
