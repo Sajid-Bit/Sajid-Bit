@@ -1,3 +1,14 @@
+### :man_technologist: &nbsp;About Me :
+```zsh
+ I do Data Analysts , Machine Learning Engineers, Data science, Front-End Develpment With js (React-Vue)
+```
+---
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sudan.
+
+- 🔭 I’m working as a Data science and contributing to frontend and backend for building web applications.
+- 🌱 Exploring Technical Content Writing.
+- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](
 
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> I'm Sajid From Sudan
 ```zsh
