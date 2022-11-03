@@ -20,6 +20,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+ <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/numpy_logo_icon_168071.png" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+ <!--
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -40,6 +43,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sajid-Bit&show_icons=true&count_private=true&theme=algolia&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajid-Bit&layout=compact&theme=algolia&include_all_commits=true&count_private=true" />
+-->
 
 </p>
 
