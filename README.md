@@ -33,8 +33,8 @@
 
 </p>
 
-
+<p align="center">
 ![Typing SVG](https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg)
- 
+</p>
 
 
