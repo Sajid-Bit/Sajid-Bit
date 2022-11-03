@@ -45,6 +45,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 ---
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg"/>
 </p>
