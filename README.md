@@ -65,6 +65,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Sajid-Bit&show_icons=true&" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Sajid-Bit&hide_border=true" width = 400>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iheb-ch&show_icons=true&locale=en&layout=compact" width = 400/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sajid-Bit&show_icons=true&locale=en&layout=compact" width = 400/>
 
 </p>
