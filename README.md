@@ -54,7 +54,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### Hi there 👋
  I do Data Analysts , Machine Learning Engineers, Data science, Front-End Develpment With js (React-Vue), I am also a a competitor in **Kaggle and Zindi**
-[sponsoring me](https://github.com/sponsors/pablogsal).
+[My account in kaggle](https://www.kaggle.com/sajidalfadil).
 
 
 [![pgp](https://img.shields.io/badge/pgp-0x64E628F8D684696D-313131?style=flat&labelColor=313131&color=313131)](https://github.com/pablogsal.gpg)
