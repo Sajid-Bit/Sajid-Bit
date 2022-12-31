@@ -63,8 +63,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Sajid-Bit&show_icons=true&&theme=tokyonight_duo&show_icons" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=Sajid-Bit&show_icons=true&theme=radical" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Sajid-Bit&hide_border=true&theme=tokyonight_duo" width = 400>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sajid-Bit&show_icons=true&locale=en&layout=compact" width = 400/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sajid-Bit&show_icons=true&theme=radical&locale=en&layout=compact" width = 400/>
 
 </p>
