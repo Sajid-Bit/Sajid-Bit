@@ -61,20 +61,35 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <a href='https://twitter.com/pyblogsal/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 ---
 <br>
-
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Sajid-Bit&show_icons=true&theme=radical" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Sajid-Bit&hide_border=true&theme=neon_blurange" width = 400>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sajid-Bit&show_icons=true&theme=radical&locale=en&layout=compact" width = 400 heigth = 400/>
 </p>
 
+---
+
+
+<p align = "center">
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sajid-Bit&theme=tokyonight" width=900 />
+</p>
 
-## __Things to proud of🔥__  
+---
 
-![](https://github-profile-trophy.vercel.app/?username=Sajid-Bit&theme=tokyonight)
 
+<p align="center">
+ <h1> Things to proud of🔥 <h1/>
+ <image src="https://github-profile-trophy.vercel.app/?username=Sajid-Bit&theme=tokyonight"/>
+
+  ---
+  
 ![](https://leetcard.jacoblin.cool/siddp6?ext=contest)
+
+  
+  
+</p>
+
+
 
 
 
