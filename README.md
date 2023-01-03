@@ -68,7 +68,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sajid-Bit&show_icons=true&theme=radical&locale=en&layout=compact" width = 400/>
 
 </p>
+# --
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidd6p&theme=tokyonight)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sidd6p&theme=tokyonight&utcOffset=8)
 
 ## __Things to proud of🔥__  
 
