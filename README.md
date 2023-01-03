@@ -56,7 +56,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  I do Data Analysts , Machine Learning Engineers, Data science, Front-End Develpment With js (React-Vue), I am also a a competitor in **Kaggle and Zindi**
 [My account in kaggle](https://www.kaggle.com/sajidalfadil).
 
-
+---
 [![pgp](https://img.shields.io/badge/pgp-0x64E628F8D684696D-313131?style=flat&labelColor=313131&color=313131)](https://github.com/pablogsal.gpg)
 <a href='https://twitter.com/pyblogsal/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 ---
@@ -66,12 +66,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src = "https://github-readme-stats.vercel.app/api?username=Sajid-Bit&show_icons=true&theme=radical" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Sajid-Bit&hide_border=true&theme=neon_blurange" width = 400>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sajid-Bit&show_icons=true&theme=radical&locale=en&layout=compact" width = 400 heigth = 400/>
-
 </p>
 
----
-
-<p align = "center">
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidd6p&theme=tokyonight" width=900 />
 
 ## __Things to proud of🔥__  
