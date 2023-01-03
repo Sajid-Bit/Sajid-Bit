@@ -68,3 +68,20 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sajid-Bit&show_icons=true&theme=radical&locale=en&layout=compact" width = 400/>
 
 </p>
+
+
+## __Things to proud of🔥__  
+
+![](https://github-profile-trophy.vercel.app/?username=Sajid-Bit&theme=tokyonight)
+
+![](https://leetcard.jacoblin.cool/siddp6?ext=contest)
+
+
+
+
+
+
+
+
+
+
