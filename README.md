@@ -78,7 +78,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 <p align="center">
- <h1> Things to proud of🔥 <h1/>
+
  <image src="https://github-profile-trophy.vercel.app/?username=Sajid-Bit&theme=tokyonight"/>
 
   ---
