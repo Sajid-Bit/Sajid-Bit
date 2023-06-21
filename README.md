@@ -264,7 +264,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <tr>
     <td>
       <a href="https://mysql.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" height="50" >
+        <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height=40 /></code>
       </a>  
     </td>
     <td>
