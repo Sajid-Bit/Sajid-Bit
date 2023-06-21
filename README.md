@@ -125,9 +125,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     </td>
     <td>
       <a href="https://postgresql.org/" target="_blank">
-       <code>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40height="40"/>
-       </code>
+       <code><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40height="40"/></code>
       </a>  
     </td>
     <td>
