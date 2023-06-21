@@ -147,6 +147,55 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <br/>
 
+<h4>Data science </h4>
+
+<table border="1">
+  <tr>
+    <td>
+      <a href="https://mysql.com/" target="_blank">
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></code>
+      </a>  
+    </td>
+    <td>
+      <a href="https://mysql.com/" target="_blank">
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/></code>
+      </a>  
+    </td>
+    <td>
+      <a href="https://mysql.com/" target="_blank">
+        <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height=40 /></code>
+      </a>  
+    </td>
+    <td>
+      <a href="https://postgresql.org/" target="_blank">
+        <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height=40 /></code> 
+      </a>  
+    </td>
+    <td>
+      <a href="https://postgresql.org/" target="_blank">
+       <code><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40height="40"/></code>
+      </a>  
+    </td>
+    <td>
+      <a href="https://mongodb.com/" target="_blank">
+        <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" height=40 /></code>
+      </a>  
+    </td>
+    <td>
+      <a href="https://firebase.google.com/" target="_blank">
+        <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height=40 /></code>
+      </a> 
+    </td> 
+    <td>
+      <a href="https://mariadb.org/" target="_blank">
+        <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height=40 /></code>
+      </a>  
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 
 <p align = "center">
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sajid-Bit&theme=tokyonight" width=900 />
