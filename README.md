@@ -279,12 +279,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     </td>
     <td>
       <a href="https://firebase.google.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/firebase/firebase-plain.svg" height="50" >
+        <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height=40 /></code>
       </a> 
     </td> 
     <td>
       <a href="https://mariadb.org/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />
+        <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height=40 /></code>
       </a>  
     </td>
   </tr>
