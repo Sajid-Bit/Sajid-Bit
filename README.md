@@ -168,7 +168,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     </td>
     <td>
       <a href="https://postgresql.org/" target="_blank">
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/></code> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40"/></code> 
       </a>  
     </td>
     <td>
