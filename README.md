@@ -81,13 +81,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   </a>&nbsp;
 
   
-<a href="https://www.linkedin.com/in/mohammed-khalil-b62525217" target="blank"><img aling="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="Linkedin"/> </a>&nbsp;
-
-
-
-
-
- 
 
 </p>
 
