@@ -101,6 +101,196 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 📚 I use <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height=40 /></code> <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height=40 /></code> <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height=40 /></code> <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" height=40 /></code> <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height=40 /></code>
 
+<table border="1" align="center">
+  <tr>
+    <td>
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" height="50" >
+      </a>
+    </td>  
+    <td>
+      <a href="https://vuejs.org/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/vuejs/vuejs-original.svg" height="50" >
+      </a>
+    </td>  
+    <td>
+      <a href="https://redux.js.org/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/redux/redux-original.svg" height="50" >
+      </a>
+    </td>  
+    <td>
+      <a href="https://nuxtjs.org/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/nuxtjs/nuxtjs-original.svg" height="50" >
+      </a>
+    </td>  
+    <td>
+      <a href="https://nextjs.org/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg" height="50" >
+      </a>
+    </td>  
+    <td>
+      <a href="https://threejs.org/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/threejs/threejs-original.svg" height="50" >
+      </a>
+    </td>  
+    <td>
+      <a href="https://d3js.org/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="50" /></a> 
+    </td>  
+    <td>
+      <a href="https://www.chartjs.org/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a> 
+    </td>  
+  </tr>
+  <tr>    
+    <td>
+      <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" height="50" >
+      </a>
+    </td>     
+    <td>
+      <a href="https://www.javascript.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" height="50" >
+      </a>
+    </td>      
+    <td>
+      <a href="https://jquery.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/jquery/jquery-original.svg" height="50" >
+      </a>
+    </td>  
+    <td>
+      <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" height="50" >
+      </a>
+    </td>
+    <td>
+      <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" height="50" >
+      </a>
+    </td>  
+    <td>
+      <a href="https://sass-lang.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/sass/sass-original.svg" height="50" >
+      </a>
+    </td>
+    <td>
+      <a href="https://www.figma.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" height="50" >
+      </a>
+    </td> 
+  </tr>
+  <tr> 
+    <td>
+      <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-original.svg" height="50" >
+      </a>
+    </td>  
+    <td>
+      <a href="https://www.tailwindcss.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-plain.svg" height="50" >
+      </a>
+    </td>
+    <td>
+      <a href="https://mui.com/docs/3.4/javascript/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/materialui/materialui-original.svg" height="50" >
+      </a>
+    </td>  
+    <td>
+      <a href="https://chakra-ui.com/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a> 
+    </td>  
+    <td>
+      <a href="https://www.windicss.org/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/windicss.svg" alt="Windi CSS" height="50" /></a> 
+    </td>  
+    <td>
+      <a href="https://www.openui5.org/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/openui5.svg" alt="OpenUI5" height="50" /></a>
+    </td>  
+  </tr>
+<table>
+
+<br/>
+
+<table border="1" align="center">
+  <tr>  
+    <td>
+      <a href="https://nodejs.org/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" height="50" >
+      </a> 
+    </td>
+    <td>
+      <a href="https://expressjs.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/express/express-original.svg" height="50" >
+      </a>  
+    </td>
+    <td>
+      <a href="https://graphql.org/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/graphql/graphql-plain.svg" height="50" >
+      </a>
+    </td>
+    <td>
+      <a href="https://php.net/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" height="50" >
+      </a>  
+    </td>
+    <td>
+      <a href="https://codeigniter.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/codeigniter/codeigniter-plain.svg" height="50" >
+      </a> 
+    </td> 
+    <td>
+      <a href="https://laravel.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-plain.svg" height="50" >
+      </a> 
+    </td> 
+    <td>
+      <a href="https://wordpress.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/wordpress/wordpress-plain.svg" height="50" >
+      </a>  
+    </td>
+    <td>
+      <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/dotnetcore/dotnetcore-original.svg" height="50" >
+      </a>  
+    </td>
+  </tr>
+</table>
+
+</br>
+
+<table border="1" align="center">
+  <tr>
+    <td>
+      <a href="https://mysql.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" height="50" >
+      </a>  
+    </td>
+    <td>
+      <a href="https://postgresql.org/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" height="50" >
+      </a>  
+    </td>
+    <td>
+      <a href="https://mongodb.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" height="50" >
+      </a>  
+    </td>
+    <td>
+      <a href="https://firebase.google.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/firebase/firebase-plain.svg" height="50" >
+      </a> 
+    </td> 
+    <td>
+      <a href="https://mariadb.org/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />
+      </a>  
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 
 <p align = "center">
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sajid-Bit&theme=tokyonight" width=900 />
