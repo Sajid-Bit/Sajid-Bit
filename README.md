@@ -53,10 +53,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 <img align="left" src="https://orhun.dev/img/crow.png">
-
+<p>
 ### Hi there 👋
  I do Data Analysts , Machine Learning Engineers, Data science, Front-End Develpment With js (React-Vue), I am also a a competitor in **Kaggle and Zindi**
-[My account in kaggle](https://www.kaggle.com/sajidalfadil).
+[My account in kaggle](https://www.kaggle.com/sajidalfadil). </p>
 <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>
 
 ---
