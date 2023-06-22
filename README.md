@@ -18,6 +18,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 -->
 ---
 
+<!--
+
 ![](https://komarev.com/ghpvc/?username=Sajid-Bit)
 ### 🛠 &nbsp;Languages and Tools :
 
