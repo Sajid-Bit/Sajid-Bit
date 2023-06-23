@@ -60,6 +60,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [My account in kaggle](https://www.kaggle.com/sajidalfadil). <img align="right" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 100px></p>
  </div>
 
+---
 
 [![pgp](https://img.shields.io/badge/pgp-0x64E628F8D684696D-313131?style=flat&labelColor=313131&color=313131)](https://github.com/pablogsal.gpg)
 <a href='https://twitter.com/pyblogsal/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
