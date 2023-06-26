@@ -67,7 +67,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 <h3 font-weight="bold">
-  📮 How to reach me
+  📮 How To Reach Me
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
 </h3>
 <p align='center'>
